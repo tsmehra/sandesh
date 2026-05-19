@@ -23,7 +23,7 @@ import {
 } from "@/components/ui/tabs";
 import StackListTable from "./tabledata";
 import MenuTable from "./tabledatasecond";
-import SheetDemo from "./sheetmodel";
+// import SheetDemo from "./sheetmodel";
 
 export default function CreateSectionPage() {
   return (
@@ -263,7 +263,7 @@ export default function CreateSectionPage() {
         </Card>
 
         <StackListTable />
-       {/* <SheetDemo />  */}
+       {/* <SheetDemo />  */} 
       </TabsContent>
       
       {/* MANAGE MENU */}
